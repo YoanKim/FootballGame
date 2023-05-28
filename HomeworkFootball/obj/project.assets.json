@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yoan\\OneDrive\\Desktop\\HomeworkFootball\\HomeworkFootball\\HomeworkFootball.csproj",
+      "projectUniqueName": "C:\\Users\\Yoan\\OneDrive\\Desktop\\HomeworkFootball\\FootballGame\\HomeworkFootball\\HomeworkFootball.csproj",
       "projectName": "HomeworkFootball",
-      "projectPath": "C:\\Users\\Yoan\\OneDrive\\Desktop\\HomeworkFootball\\HomeworkFootball\\HomeworkFootball.csproj",
+      "projectPath": "C:\\Users\\Yoan\\OneDrive\\Desktop\\HomeworkFootball\\FootballGame\\HomeworkFootball\\HomeworkFootball.csproj",
       "packagesPath": "C:\\Users\\Yoan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yoan\\OneDrive\\Desktop\\HomeworkFootball\\HomeworkFootball\\obj\\",
+      "outputPath": "C:\\Users\\Yoan\\OneDrive\\Desktop\\HomeworkFootball\\FootballGame\\HomeworkFootball\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
