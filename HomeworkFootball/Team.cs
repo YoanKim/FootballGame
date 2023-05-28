@@ -9,10 +9,18 @@ namespace HomeworkFootball
     public class Team
     {
         public Coach Coach { get; private set; }
-        public List<FootballPlayer> players;
+        private List<FootballPlayer> players;
         public List<FootballPlayer> Players
         {
-            get { return players; }
+            get 
+            { 
+                List<FootballPlayer> temp = new List<FootballPlayer>();
+                foreach (FootballPlayer player in players)
+                {
+                    temp.Add(player);
+                }
+                return temp;
+            }
             private set
             {
                 if (value.Count < 11 || value.Count > 22)
